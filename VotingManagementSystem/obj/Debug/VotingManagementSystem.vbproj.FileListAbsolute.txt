@@ -1,0 +1,116 @@
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.pdb
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.xml
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_candidates.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_tally.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_voters.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_win.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminLogin.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Form1.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Resources.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_createAccount.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_login.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_vote.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_voteConfirm.resources
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\Lenovo\Documents\DatabasePics\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.pdb
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.xml
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_candidates.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_tally.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_voters.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_win.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminLogin.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Form1.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Resources.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_createAccount.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_login.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_vote.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_voteConfirm.resources
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Gene\Documents\Visual Studio 2015\Projects\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\CL1SERVER\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\CL1SERVER\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\CL1SERVER\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\CL1SERVER\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.pdb
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.xml
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_candidates.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_tally.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_voters.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_win.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminLogin.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Form1.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Resources.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_createAccount.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_login.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_vote.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_voteConfirm.resources
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\gembencito\Dropbox\Projects\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_candidates.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_tally.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_voters.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_win.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminLogin.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Form1.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Resources.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_createAccount.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_login.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_vote.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_voteConfirm.resources
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.pdb
+C:\Users\Bencito\Dropbox\School\PROJECTS\3rd Year 1st sem\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.xml
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe.config
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.exe
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.pdb
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\bin\Debug\VotingManagementSystem.xml
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_candidates.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_tally.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_voters.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminDB_win.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.adminLogin.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Form1.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.Resources.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_createAccount.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_login.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_vote.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.userDB_voteConfirm.resources
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.exe
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.xml
+C:\Users\Bencito\Desktop\VotingManagementSystem\VotingManagementSystem\VotingManagementSystem\obj\Debug\VotingManagementSystem.pdb

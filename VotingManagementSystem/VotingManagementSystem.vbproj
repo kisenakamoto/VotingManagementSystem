@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF8DCE46-F699-494F-A2DC-633427443C82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VotingManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>VotingManagementSystem</RootNamespace>
+    <AssemblyName>VotingManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VotingManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VotingManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminDB.Designer.vb">
+      <DependentUpon>adminDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDB_candidates.Designer.vb">
+      <DependentUpon>adminDB_candidates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminDB_candidates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDB_tally.Designer.vb">
+      <DependentUpon>adminDB_tally.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminDB_tally.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDB_voters.Designer.vb">
+      <DependentUpon>adminDB_voters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminDB_voters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDB_win.Designer.vb">
+      <DependentUpon>adminDB_win.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminDB_win.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminLogin.Designer.vb">
+      <DependentUpon>adminLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="query.vb" />
+    <Compile Include="userDB.Designer.vb">
+      <DependentUpon>userDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userDB_createAccount.Designer.vb">
+      <DependentUpon>userDB_createAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userDB_createAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userDB_login.Designer.vb">
+      <DependentUpon>userDB_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userDB_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userDB_vote.Designer.vb">
+      <DependentUpon>userDB_vote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userDB_vote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userDB_voteConfirm.Designer.vb">
+      <DependentUpon>userDB_voteConfirm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userDB_voteConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="adminDB.resx">
+      <DependentUpon>adminDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminDB_candidates.resx">
+      <DependentUpon>adminDB_candidates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminDB_tally.resx">
+      <DependentUpon>adminDB_tally.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminDB_voters.resx">
+      <DependentUpon>adminDB_voters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminDB_win.resx">
+      <DependentUpon>adminDB_win.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminLogin.resx">
+      <DependentUpon>adminLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userDB.resx">
+      <DependentUpon>userDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userDB_createAccount.resx">
+      <DependentUpon>userDB_createAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userDB_login.resx">
+      <DependentUpon>userDB_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userDB_vote.resx">
+      <DependentUpon>userDB_vote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userDB_voteConfirm.resx">
+      <DependentUpon>userDB_voteConfirm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voter%27sList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candidates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tally.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registration1.0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dialog Box.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createAccount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vote.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CVSU\IMG_3266.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CVSU\IMG_3268.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CVSU\IMG_3270.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CVSU\IMG_3272.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CVSU\IMG_3274.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
